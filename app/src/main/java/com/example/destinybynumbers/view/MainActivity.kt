@@ -1,7 +1,8 @@
-package com.example.destinybynumbers
+package com.example.destinybynumbers.view
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import androidx.appcompat.app.AppCompatActivity
+import com.example.destinybynumbers.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

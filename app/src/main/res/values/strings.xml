@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">DestinyByNumbers</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="destiny_by_numbers_numerology_calculator">Destiny By Numbers Numerology Calculator</string>
+    <string name="middle_name_hint">Birth Middle Name</string>
+    <string name="middle_name">Birth Middle Name:</string>
+    <string name="last_name">Birth Last Name:</string>
+    <string name="first_name">Birth First Name:</string>
+    <string name="first_name_hint">Birth First Name</string>
+    <string name="last_name_hint">Birth Last Name</string>
+    <string name="birth_month">Birth Month:</string>
+    <string name="birth_month_mm">Birth Month: MM</string>
+    <string name="birth_day">Birth Day:</string>
+    <string name="birth_day_dd">Birth Day: DD</string>
+    <string name="birth_year">Birth Year:</string>
+    <string name="birth_year_yyyy">Birth Year: YYYY</string>
+    <string name="next">Next</string>
 </resources>
